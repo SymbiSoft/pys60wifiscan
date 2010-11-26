@@ -1,6 +1,4 @@
-#summary About WiFiScan application.
 #labels Featured
-
 = Introduction =
 
 WiFiScan is a pys60 (python for s60 symbian devices) application. It scans for wireless networks, shows information about found networks and graphs signal strength over time.
