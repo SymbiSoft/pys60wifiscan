@@ -1,0 +1,19 @@
+#labels Featured
+= Introduction =
+
+WiFiScan is a pys60 (python for s60 symbian devices) application. It scans for wireless networks, shows information about found networks and graphs signal strength over time.
+
+= Details =
+
+Keys to use this application:
+  * up / down: select next/previous element from list
+  * left / right: move through different views
+  * select (center of joystick): same as _right_
+  * left line (near green _call_ button): toggle filtering by selected SSID ON / OFF
+  * right line (near red _hang up_ button): exit application
+
+Views from first(left) to last(right):
+  * SSID list
+  * BSSID list
+  * details about selected BSSID + dBm graph
+  * one line version of details + near full screen dBm graph
