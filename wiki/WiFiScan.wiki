@@ -18,4 +18,29 @@ Views from first(left) to last(right):
   * details about selected BSSID + dBm graph
   * one line version of details + near full screen dBm graph
 
+Main menu:
+<table border="1"><tr><td>
+http://pys60wifiscan.googlecode.com/svn/trunk/Images/Screenshot0109.gif</td><td>
+*SSID list*
+  # left side:
+    * yellow networks: currently available
+    * red networks: currently unavailable
+    * joda ( -84 ): currently selected network from list
+    * ( nuber ): last dBm signal strength indication
+  # right side:
+    * red line: last dBm
+    * grey area: area from worst to best dBm
+</td></tr></table>
+
+= Screenshots =
+
+http://pys60wifiscan.googlecode.com/svn/trunk/Images/Screenshot0110.gif
+http://pys60wifiscan.googlecode.com/svn/trunk/Images/Screenshot0112.gif
+http://pys60wifiscan.googlecode.com/svn/trunk/Images/Screenshot0114.gif
+http://pys60wifiscan.googlecode.com/svn/trunk/Images/Screenshot0115.gif
+http://pys60wifiscan.googlecode.com/svn/trunk/Images/Screenshot0116.gif
+http://pys60wifiscan.googlecode.com/svn/trunk/Images/Screenshot0117.gif
+http://pys60wifiscan.googlecode.com/svn/trunk/Images/Screenshot0121.gif
+http://pys60wifiscan.googlecode.com/svn/trunk/Images/Screenshot0122.gif
 http://pys60wifiscan.googlecode.com/svn/trunk/Images/Graph1.gif
+http://pys60wifiscan.googlecode.com/svn/trunk/Images/Menu.gif
