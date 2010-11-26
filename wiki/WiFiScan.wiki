@@ -17,3 +17,5 @@ Views from first(left) to last(right):
   * BSSID list
   * details about selected BSSID + dBm graph
   * one line version of details + near full screen dBm graph
+
+http://pys60wifiscan.googlecode.com/svn/trunk/Images/Graph1.gif
