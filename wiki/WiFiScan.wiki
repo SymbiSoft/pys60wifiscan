@@ -1,7 +1,7 @@
 #labels Featured
 = Introduction =
 
-WiFiScan is a pys60 (python for s60 symbian devices) application. It scans for wireless networks, shows information about found networks and graphs signal strength over time.
+WiFiScan is a pys60 (python for s60 symbian devices) application. It scans for wireless networks, shows information about found networks and charts signal strength over time.
 
 = Details =
 
@@ -14,9 +14,9 @@ Keys to use this application:
 
 Views from first(left) to last(right):
   * SSID list
-  * BSSID list
-  * details about selected BSSID + dBm graph
-  * one line version of details + near full screen dBm graph
+  * BSSID(access point) list
+  * details about selected BSSID + dBm chart
+  * one line version of details + near full screen dBm chart
 
 Main menu:
 <table border="1"><tr><td>
@@ -31,9 +31,25 @@ http://pys60wifiscan.googlecode.com/svn/trunk/Images/Screenshot0109.gif</td><td>
     * red line: last dBm
     * grey area: area from worst to best dBm
 </td></tr></table>
+<table border="1"><tr><td>
+http://pys60wifiscan.googlecode.com/svn/trunk/Images/Screenshot0122.gif</td><td>
+*Full details view*
+  # top side:
+    * BSSID: MAC (hardware) address of the access point
+    * SSID: ESSID (visual name) of the access point
+    * Last seen: LIVE if current, seconds/minutes otherwise
+    * Security mode: Open, Wep, 802.1x, Wpa, WpaPsk or Unidentified
+    * Connection mode: AdHoc, Infrastructure, SecureInfra, Unknown
+    * Channel number: The channel (1-14) on which access point operates. Exclamation marks for multiple usage of the same channel. All used channels are listed in parenthesis. 
+  # bottom side:
+    * red chart: dBm/time for selected BSSID (with gaps when not found)
+    * purple charts: dBm/time for all other BSSIDs
+    * refresh every 10 seconds
+</td></tr></table>
 
 = Screenshots =
 
+http://pys60wifiscan.googlecode.com/svn/trunk/Images/Screenshot0109.gif
 http://pys60wifiscan.googlecode.com/svn/trunk/Images/Screenshot0110.gif
 http://pys60wifiscan.googlecode.com/svn/trunk/Images/Screenshot0112.gif
 http://pys60wifiscan.googlecode.com/svn/trunk/Images/Screenshot0114.gif
