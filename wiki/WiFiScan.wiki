@@ -60,7 +60,7 @@ http://pys60wifiscan.googlecode.com/svn/trunk/Images/Screenshot0121.gif
 http://pys60wifiscan.googlecode.com/svn/trunk/Images/Screenshot0122.gif
 http://pys60wifiscan.googlecode.com/svn/trunk/Images/Graph1.gif
 http://pys60wifiscan.googlecode.com/svn/trunk/Images/Menu.gif
-http://pys60wifiscan.googlecode.com/svn/trunk/Images/Screenshot0137.gif
-http://pys60wifiscan.googlecode.com/svn/trunk/Images/Screenshot0138.gif
-http://pys60wifiscan.googlecode.com/svn/trunk/Images/Screenshot0139.gif
-http://pys60wifiscan.googlecode.com/svn/trunk/Images/Screenshot0140.gif
+http://pys60wifiscan.googlecode.com/svn/trunk/Images/Screenshot0137.png
+http://pys60wifiscan.googlecode.com/svn/trunk/Images/Screenshot0138.png
+http://pys60wifiscan.googlecode.com/svn/trunk/Images/Screenshot0139.png
+http://pys60wifiscan.googlecode.com/svn/trunk/Images/Screenshot0140.png
