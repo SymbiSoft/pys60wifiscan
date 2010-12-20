@@ -93,8 +93,8 @@ class WiFiScan:
     print "up/down: move through networks"
     print "right, center: go to next menu"
     print "left: go to previous menu"
-    print "right_soft: toggle - show all networks"
-    print "left_soft: exit (with prompt)"
+    print "left_soft: toggle - show all networks"
+    print "right_soft: exit (with prompt)"
     print ""
     
     self.lastRefresh=time.clock()
